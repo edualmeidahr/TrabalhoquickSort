@@ -1,0 +1,28 @@
+/home/lucas/Documentos/Projeto Novo/CSharp/bin/Debug/net8.0/CSharp
+/home/lucas/Documentos/Projeto Novo/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/home/lucas/Documentos/Projeto Novo/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/home/lucas/Documentos/Projeto Novo/CSharp/bin/Debug/net8.0/CSharp.dll
+/home/lucas/Documentos/Projeto Novo/CSharp/bin/Debug/net8.0/CSharp.pdb
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.dll
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.pdb
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/home/lucas/Documentos/Projeto Novo/CSharp/obj/Debug/net8.0/ref/CSharp.dll
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.dll
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.pdb
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/bin/Debug/net8.0/CSharp
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/bin/Debug/net8.0/CSharp.dll
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/bin/Debug/net8.0/CSharp.pdb
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/home/lucas/Documentos/QuickSort/Pivo Mediana Tres/CSharp/obj/Debug/net8.0/ref/CSharp.dll
